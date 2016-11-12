@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Intellij
+.idea/*
+!.idea/runConfigurations
+*.iml
+*.iws
+classes/
+
+# Gradle
+.gradle/
+build/
